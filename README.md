@@ -11,12 +11,10 @@ TipsはできるだけThe jupyter notebook（ipynbファイル）で作ってい
 1. 統計解析R 
     * [IRkernelのインストール方法](https://nbviewer.jupyter.org/github/waku-take-a/JupyterTips/blob/master/Install_of_IRkernel.ipynb) 
     * [パッケージを読み込めないエラーについて](https://nbviewer.jupyter.org/github/waku-take-a/JupyterTips/blob/master/Error_occurred_in_library_function.ipynb) 
-    * [Rを試してみよう！（サンプル）](https://nbviewer.jupyter.org/github/waku-take-a/JupyterTips/blob/master/Let_us_try_R.ipynb)
-    * [Rcpp入門（サンプル）](https://nbviewer.jupyter.org/github/waku-take-a/JupyterTips/blob/master/Rcpp_Getting_Started_000.ipynb) 
-    * [Rcpp入門 その2（サンプル）](https://nbviewer.jupyter.org/github/waku-take-a/JupyterTips/blob/master/Rcpp_Getting_Started_001.ipynb) 
-    * [Rcpp入門 その3（サンプル）](https://nbviewer.jupyter.org/github/waku-take-a/JupyterTips/blob/master/Rcpp_Getting_Started_002.ipynb) 
 1. OpenCV
     * [Python3にOpenCVを入れる](https://nbviewer.jupyter.org/github/waku-take-a/JupyterTips/blob/master/Install_OpenCV_on_Python3_system.ipynb)
 
 ----
+[ホームへ](https://waku-take-a.github.io/index.html) 
+
 <(_ _)>
