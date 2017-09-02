@@ -4,7 +4,7 @@
 
 The jupyter notebook のTipsについて書いていこうと思います。  
 TipsはできるだけThe jupyter notebook（ipynbファイル）で作っていこうと思います。  
-ファイルGitHubで管理します。  GitHubではipynbファイルを表示する機能がありますが、少々遅いのでnbviewerを利用することにします。  
+ファイルはGitHubで管理します。GitHubではipynbファイルを表示する機能がありますが、nbviewerの方が表示が速いようです。  
 下のリンクは、各ipynbファイルをnbviewerで表示します。
 
 1. [jupyterとは](https://nbviewer.jupyter.org/github/waku-take-a/JupyterTips/blob/master/What_is_jupyter.ipynb)
